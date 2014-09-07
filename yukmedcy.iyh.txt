@@ -1,0 +1,42 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   Scientific papers for Tesla Proposal.zip
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0011227502000280-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0011227502000310-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0011227505001062-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0022247X14006829-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0038109814002427-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0038109814002506-main (1).pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0045793013003502-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0261306912000404-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0304885301012379-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0360544214004174-main (1).pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0894177709001083-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0921453412001578-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0921453414002652-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0925838804001811-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0925838814008706-main (1).pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S0925838814009591-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S099775461200091X-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S1002072108601003-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S1006706X08602149-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S1359646212002990-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S1364032114003190-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/1-s2.0-S1875537209600126-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/3 phase  generator 1-s2.0-S1877705814002288-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/3-s2.0-B9780124095090000184-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/3-s2.0-B9780124170131000108-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/3-s2.0-B9780323221085000084-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/3-s2.0-B9780323310161000076-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/3-s2.0-B9780323310161000106-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/3-s2.0-B9780857090591500191-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/3-s2.0-B9781455728510000050-main (1).pdf
+#	new file:   Scientific papers for Tesla Proposal/3-s2.0-B9781455728510000098-main.pdf
+#	new file:   Scientific papers for Tesla Proposal/Tesla Fluid Dynamics1-s2.0-S099775461200091X-main.pdf
+#
+
