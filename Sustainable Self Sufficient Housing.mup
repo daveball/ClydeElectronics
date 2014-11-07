@@ -1,0 +1,485 @@
+{
+  "title": "Sustainable Self Sufficient Housing",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "11": {
+      "title": "Sustainablility",
+      "id": 42,
+      "ideas": {
+        "1": {
+          "title": "Materials",
+          "id": 44,
+          "ideas": {
+            "2": {
+              "title": "Richlite http://www.richlite.com/",
+              "id": 50,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
+            },
+            "3": {
+              "title": "Bamboo",
+              "id": 51,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
+            },
+            "13": {
+              "title": "Mushroom  Based  Materials http://www.ecovativedesign.com",
+              "id": 45,
+              "ideas": {
+                "2": {
+                  "title": "Myco Boardhttp://www.ecovativedesign.com/products-and-applications/structural-biocomposites/mycoboard.pdf",
+                  "id": 49,
+                  "attr": {
+                    "style": {
+                      "background": "#000080"
+                    }
+                  }
+                },
+                "12": {
+                  "title": "Insulation  http://www.ecovativedesign.com/products-and-applications/insulation/",
+                  "id": 46,
+                  "attr": {
+                    "style": {
+                      "background": "#000080"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  14.5,
+                  87,
+                  1
+                ],
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          134,
+          -179,
+          8
+        ],
+        "style": {
+          "background": "#00ccff"
+        }
+      }
+    },
+    "21": {
+      "title": "Energy Efficency",
+      "id": 30,
+      "ideas": {
+        "1": {
+          "title": "Passive Solar Heating",
+          "id": 32,
+          "attr": {
+            "style": {
+              "background": "#808080"
+            }
+          }
+        },
+        "2": {
+          "title": "Combined Heating  and Cooling",
+          "id": 33,
+          "ideas": {
+            "1": {
+              "title": "Thermoacoustic heat engine",
+              "id": 34,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Under Floor  Heating",
+                  "id": 35,
+                  "attr": {
+                    "style": {
+                      "background": "#000000"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Walk in Fridge",
+                  "id": 37,
+                  "attr": {
+                    "style": {
+                      "background": "#000000"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Build in Freezer",
+                  "id": 38,
+                  "attr": {
+                    "style": {
+                      "background": "#000000"
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Hot Water",
+                  "id": 52,
+                  "attr": {
+                    "style": {
+                      "background": "#000000"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#808080"
+            }
+          }
+        },
+        "3": {
+          "title": "Triple Glazing on  Windows",
+          "id": 39,
+          "attr": {
+            "style": {
+              "background": "#808080"
+            }
+          }
+        },
+        "0.5": {
+          "title": "Insulation",
+          "id": 40,
+          "attr": {
+            "style": {
+              "background": "#808080"
+            }
+          },
+          "ideas": {}
+        }
+      },
+      "attr": {
+        "position": [
+          132,
+          203,
+          7
+        ],
+        "style": {
+          "background": "#999999"
+        }
+      }
+    },
+    "-1": {
+      "title": "Food Production",
+      "id": 25,
+      "ideas": {
+        "1": {
+          "title": "Roof Allotment ",
+          "id": 26,
+          "ideas": {
+            "1": {
+              "title": "Green House",
+              "id": 27,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                },
+                "position": [
+                  133,
+                  -55,
+                  3
+                ]
+              }
+            },
+            "0.5": {
+              "title": "Raised Beds",
+              "id": 29,
+              "attr": {
+                "position": [
+                  87,
+                  -113,
+                  2
+                ],
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            },
+            "position": [
+              299,
+              7,
+              1
+            ]
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          181,
+          -153,
+          4
+        ],
+        "style": {
+          "background": "#ffcc99"
+        }
+      }
+    },
+    "-11": {
+      "title": "Energy Production",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Electricity",
+          "id": 3,
+          "attr": {
+            "position": [
+              140.5,
+              -108.5,
+              2
+            ],
+            "style": {
+              "background": "#339966"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Solar Panels",
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": "Windows",
+                  "id": 19,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "East Gabble",
+                  "id": 20,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "West Gabble",
+                  "id": 21,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
+            },
+            "2": {
+              "title": "Wind Turbine",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "Vertical",
+                  "id": 22,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Prop",
+                  "id": 23,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Bladeless",
+                  "id": 24,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
+            },
+            "3": {
+              "title": "Storage Sytems",
+              "id": 16,
+              "ideas": {
+                "1": {
+                  "title": "Battery Bank",
+                  "id": 17,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Compressed Air Storage",
+                  "id": 18,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
+            }
+          }
+        },
+        "0.5": {
+          "title": "Gas",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "anaerobic digestion ",
+              "id": 6,
+              "attr": {
+                "position": [
+                  40.5,
+                  76.5,
+                  1
+                ],
+                "style": {
+                  "background": "#008000"
+                }
+              },
+              "ideas": {
+                "2": {
+                  "title": "Garden Waste",
+                  "id": 10,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Human Waste",
+                  "id": 12,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2.5": {
+                  "title": "Food Waste",
+                  "id": 8,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              92,
+              -202,
+              3
+            ],
+            "style": {
+              "background": "#339966"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#808080"
+        },
+        "position": [
+          184.0857864376269,
+          139,
+          9
+        ]
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 40,
+      "ideaIdTo": 46,
+      "attr": {
+        "style": {
+          "color": "#800080",
+          "lineStyle": "solid"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 26,
+      "ideaIdTo": 10,
+      "attr": {
+        "style": {
+          "color": "#008000",
+          "lineStyle": "solid",
+          "arrow": true
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 32,
+      "ideaIdTo": 52,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "solid",
+          "arrow": true
+        }
+      }
+    }
+  ],
+  "attr": {
+    "style": {
+      "background": "#ccffff"
+    }
+  }
+}
